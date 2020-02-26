@@ -10,6 +10,7 @@ To run the programs:
     - Go to folder Taller1
     - Open your Terminal
     - Compile the programs: 
+    
         ```bash
           $ ./problema1.c
         ```
